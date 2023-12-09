@@ -65,5 +65,8 @@ WARNING: This is a development server. Do not use it in a production deployment.
 # Navigate your browser to "http://127.0.0.1:5000" in the URL bar
 # Enjoy the Great North's Saga Weaver!!!! 
 
+NOTE YOU CAN ALSO ACCESS A TEXT AND IMAGE GENERATOR AT THE FOLLOWING (you will need an OpenAI account):
+https://chat.openai.com/g/g-thKx3GAww-great-north-s-saga-weaver
+
 
 
